@@ -1,7 +1,8 @@
 # COMANDOS-CONDA-
 COMANDOS CONDA 
 # Versión de CONDA 
-conda --version
+```conda --version
+```
 # Actualizar la versión de CONDA 
 conda update conda
 # Ver todos los paquetes instalados
@@ -14,3 +15,15 @@ conda install numpy
 conda update -n tensorflow numpy
 #  Elimine el paquete en el entorno actual (se pueden eliminar varios paquetes juntos)
 conda remove scipy numpy
+
+
+Usage Example
+-------------
+
+```bash
+$ docker run --rm frolvlad/alpine-miniconda3 python -c 'print("Hello World")'
+```
+
+Once you have run this command you will get printed 'Hello World' from Python!
+
+NOTE: `conda` and `pip` are also available in this image.
