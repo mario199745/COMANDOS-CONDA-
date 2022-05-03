@@ -32,11 +32,11 @@
   Quizás escuchaste hablar de Anaconda en relación con Python pero que permite exactamente tener instalado Anaconda, Conda o Miniconda en tu computadora 
   pues primero una breve definición de lo que significa cada uno de ellos. 
 
-  -Anaconda: Es una distribucción de Python que funciona como un gestor de entorno, un gestor de paquetes y que posee una colección de +720 paquetes de código abierto.
+  -<a href="https://www.anaconda.com/products/distribution">Anaconda</a>: Es una distribución de Python que funciona como un gestor de entorno, gestor de paquetes y que posee una colección de +720 paquetes de código abierto.
 
-  -Miniconda: Miniconda es un instalador mínimo gratuito para conda. Es una pequeña versión de arranque de Anaconda que incluye solo conda, Python, los paquetes de los que dependen y una pequeña cantidad de otros paquetes útiles.
+  -<a href="https://docs.conda.io/en/latest/miniconda.html">Miniconda</a>: Es un instalador mínimo gratuito para conda. Es una pequeña versión de arranque de Anaconda que incluye solo conda, Python, los paquetes de los que dependen y una pequeña cantidad de otros paquetes útiles.
 
-  -Conda: Conda es un sistema de administración de paquetes y un sistema de administración de entornos de código abierto que se ejecuta en Windows, macOS y Linux.
+  -<a href="https://docs.conda.io/projects/conda/en/latest/">Conda</a>: Es un sistema de administración de paquetes y un sistema de administración de entornos de código abierto que se ejecuta en Windows, macOS y Linux.
 
   Ahora que ya se tiene claro estos conceptos, la pregunta es, ¿Cual de ellos instalare en mi computadora?, según mi experiencia considero que es preferible 
   instalar miniconda, ya que Anaconda instala gran cantidad de "herramientas" que no necesariamente vas a utilizar, ahora la ventaja de utilizar 
@@ -44,6 +44,11 @@
   que también puedes instalar utilizando miniconda. 
 
 ## **Beneficios**
+ - Utilizar diferentes versiones de Python y evitar conflictos en la ejecución  de proyectos que se desarrollen con diferentes versiones. 
+
+ - Utilizar diferentes editores de código como Spyder, Jupyter Notebook,Jupiter Lab y Pycharm.  
+
+![new_issue_datasets](https://user-images.githubusercontent.com/55163339/166525194-86233cbc-1175-4d7c-9c55-c4b0807aab4c.png)
 
 
 ## **Comandos**
@@ -79,11 +84,11 @@ conda update -n tensorflow numpy
 conda remove scipy numpy
 ```
  ## **Herramientas geoespaciales**
- 
-  Existe gran variedad de herramientas en el ámbito geoespacial que solo pueden ser utilizadas con Conda como rgee y PCraster.  
-  -rgee: Es un paquete en R que permite utilizar las funciones de Google Earth Engine en R. 
 
-  -PCraster: Es una colección de software dirigida al desarrollo y despliegue de modelos ambientales espacio-temporales. 
+  Existe gran variedad de herramientas en el ámbito geoespacial que solo pueden ser utilizadas con Conda como rgee y PCraster.  
+  -<a href="https://www.youtube.com/watch?v=SHXuIpjU3YE&ab_channel=ISPRSSC">rgee</a>: Es un paquete en R que permite utilizar las funciones de Google Earth Engine en R. 
+
+  -<a href="https://www.youtube.com/watch?v=IMwn53z9uWQ&list=PLeuKJkIxCDj0INszvbLWZziYIT3nCsFeo&index=11&ab_channel=HansvanderKwast">PC raster</a>: Es una colección de software dirigida al desarrollo y despliegue de modelos ambientales espacio-temporales. 
 
 
 
