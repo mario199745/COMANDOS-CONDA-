@@ -77,8 +77,8 @@ conda remove scipy numpy
 - _David Montero, 2021, ee-pokepalettes,
   <https://github.com/davemlz/ee-pokepalettes>_
 
-- _Gennadii Donchyts, Fedor Baart & Justin Braaten
-  ,2020,<https://github.com/gee-community/ee-palettes>_
+- _Ted Petrou
+  ,2019,<Anaconda is bloated — Set up a lean, robust data science environment with Miniconda and Conda-Forge>_
 
 - _Sergio Ibarra Espinosa, 2017, cptcity,
   <https://github.com/ibarraespinosa/cptcity>_
