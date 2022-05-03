@@ -1,4 +1,4 @@
-<h1 align="center"><strong>¿Que es Conda?</strong></h1>
+<h1 align="center"><strong>Conda: Aplicaciones en los SIG</strong></h1>
 
 <table align="center">
  <p align="center">
@@ -53,7 +53,7 @@
 
 ## **Comandos**
 
- Aquí comparto algunas de los comandos que más utilizo para poder programar utilizando Conda
+ Aquí comparto algunas de los comandos que más utilizo para poder programar utilizando Conda.
 
 1 - Versión de Conda(¿Cuál es la versión de Conda utilizada?)
 ```bash
@@ -90,12 +90,23 @@ conda remove scipy numpy
 
   -<a href="https://www.youtube.com/watch?v=IMwn53z9uWQ&list=PLeuKJkIxCDj0INszvbLWZziYIT3nCsFeo&index=11&ab_channel=HansvanderKwast">PC raster</a>: Es una colección de software dirigida al desarrollo y despliegue de modelos ambientales espacio-temporales. 
 
+ ## **Inicializando**
+
+  Aquí encontrarás una serie de videotutoriales que te guiarán paso a paso para comenzar a utilizar Conda, además aplicaciones geoespaciales de gran utilidad. 
+
+  1. <a href="https://www.youtube.com/watch?v=LA2198lSnCY&ab_channel=BIOPARSEC">Instalar miniconda fácil y rápido</a>
+
+  2. <a href="hhttps://www.youtube.com/watch?v=XCvgyvBFjyM&ab_channel=CodingIsFun">Instale Miniconda (Python) con Jupyter Notebook y configure entornos virtuales en Windows 10</a>
+
+  3. <a href="https://www.youtube.com/watch?v=14rqwp7ZqwQ&ab_channel=PercyESCOBARSOTO">Distribución de espesor de hielo en un Glaciar con GlabTop2 python</a>
+
+  
 
 
 ## **Contacto**
 
 * 🤓 **Mario Caceres** ( <img src="https://raw.githubusercontent.com/ambarja/Buenas-practicas-con-QGIS/main/img/email.png" height=14> <b>Mario.mariocaceresreyna25@gmail.com</b>)
-  - [Miembro del Círculo de Investigación en Bosques Secos del Perú**](https://www.facebook.com/CIBOSEC)
+  - [Miembro del Círculo de Investigación en Bosques Secos del Perú](https://www.facebook.com/CIBOSEC)
 
 ## 📚 **Referencias**
 
