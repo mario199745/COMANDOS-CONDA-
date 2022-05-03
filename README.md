@@ -53,7 +53,7 @@
 
 ## **Comandos**
 
- Aquí comparto algunas de los comandos que más utilizo para poder programar utilizando Conda.
+ Aquí comparto algunos de los comandos que más utilizo para poder programar utilizando Conda.
 
 1 - Versión de Conda(¿Cuál es la versión de Conda utilizada?)
 ```bash
