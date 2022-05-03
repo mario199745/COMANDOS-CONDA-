@@ -42,7 +42,7 @@
 ## **Beneficios**
 
 
- ## **Comandos**
+## **Comandos**
 
  Aquí comparto algunas de los comandos que más utilizo para poder programar utilizando Conda
 
@@ -76,8 +76,8 @@ conda remove scipy numpy
 ```
  ## **Herramientas geoespaciales**
   Existe gran variedad de herramientas en el ámbito geoespacial que solo pueden ser utilizadas con Conda como rgee y PCraster.  
-  -rgee: 
-  -PCraster: 
+  -rgee: Es un paquete en R que permite utilizar las funciones de Google Earth Engine en R 
+  -PCraster: Es una colección de software dirigida al desarrollo y despliegue de modelos ambientales espacio-temporales. 
 
 
 
