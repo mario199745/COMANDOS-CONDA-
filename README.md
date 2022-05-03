@@ -31,9 +31,13 @@
  ## **Información**
   Quizás escuchaste hablar de Anaconda en relación con Python pero que permite exactamente tener instalado Anaconda, Conda o Miniconda en tu computadora 
   pues primero una breve definición de lo que significa cada uno de ellos. 
-  -Anaconda: 
-  -Miniconda: 
-  -Conda: 
+
+  -Anaconda: Es una distribucción de Python que funciona como un gestor de entorno, un gestor de paquetes y que posee una colección de +720 paquetes de código abierto.
+
+  -Miniconda: Miniconda es un instalador mínimo gratuito para conda. Es una pequeña versión de arranque de Anaconda que incluye solo conda, Python, los paquetes de los que dependen y una pequeña cantidad de otros paquetes útiles.
+
+  -Conda: Conda es un sistema de administración de paquetes y un sistema de administración de entornos de código abierto que se ejecuta en Windows, macOS y Linux.
+
   Ahora que ya se tiene claro estos conceptos, la pregunta es, ¿Cual de ellos instalare en mi computadora?, según mi experiencia considero que es preferible 
   instalar miniconda, ya que Anaconda instala gran cantidad de "herramientas" que no necesariamente vas a utilizar, ahora la ventaja de utilizar 
   Anaconda es que al hacerlo también se instala la interfaz gráfica Navigator que facilita la interacción en la instalación y configuración de entornos, pero 
@@ -75,6 +79,7 @@ conda update -n tensorflow numpy
 conda remove scipy numpy
 ```
  ## **Herramientas geoespaciales**
+ 
   Existe gran variedad de herramientas en el ámbito geoespacial que solo pueden ser utilizadas con Conda como rgee y PCraster.  
   -rgee: Es un paquete en R que permite utilizar las funciones de Google Earth Engine en R. 
 
