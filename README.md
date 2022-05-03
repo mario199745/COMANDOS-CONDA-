@@ -34,7 +34,7 @@
 
   -<a href="https://www.anaconda.com/products/distribution">Anaconda</a>: Es una distribución de Python que funciona como un gestor de entorno, gestor de paquetes y que posee una colección de +720 paquetes de código abierto.
 
-  -<a href="https://docs.conda.io/en/latest/miniconda.html">Miniconda</a>: Es un instalador mínimo gratuito para conda. Es una pequeña versión de arranque de Anaconda que incluye solo conda, Python, los paquetes de los que dependen y una pequeña cantidad de otros paquetes útiles.
+  -<a href="https://docs.conda.io/en/latest/miniconda.html">Miniconda</a>: Es un instalador mínimo gratuito para conda. Es una pequeña versión de Anaconda que incluye solo conda, Python, los paquetes de los que dependen y una pequeña cantidad de otros paquetes útiles.
 
   -<a href="https://docs.conda.io/projects/conda/en/latest/">Conda</a>: Es un sistema de administración de paquetes y un sistema de administración de entornos de código abierto que se ejecuta en Windows, macOS y Linux.
 
@@ -53,7 +53,7 @@
 
 ## **Comandos**
 
- Aquí comparto algunos de los comandos que más utilizo para poder programar utilizando Conda.
+ Aquí comparto algunos de los comandos que más utilizo en Conda.
 
 1 - Versión de Conda(¿Cuál es la versión de Conda utilizada?)
 ```bash
@@ -90,6 +90,8 @@ conda remove scipy numpy
 
   -<a href="https://www.youtube.com/watch?v=IMwn53z9uWQ&list=PLeuKJkIxCDj0INszvbLWZziYIT3nCsFeo&index=11&ab_channel=HansvanderKwast">PC raster</a>: Es una colección de software dirigida al desarrollo y despliegue de modelos ambientales espacio-temporales. 
 
+ -<a href="https://glabtop2-py.readthedocs.io/en/latest/concepts.html#glabtop2">GlabTop2</a>: Estimar el volumen de un glaciar. 
+
  ## **Inicializando**
 
   Aquí encontrarás una serie de videotutoriales que te guiarán paso a paso para comenzar a utilizar Conda, además aplicaciones geoespaciales de gran utilidad. 
@@ -99,6 +101,10 @@ conda remove scipy numpy
   2. <a href="https://www.youtube.com/watch?v=XCvgyvBFjyM&ab_channel=CodingIsFun">Instale Miniconda (Python) con Jupyter Notebook y configure entornos virtuales en Windows 10</a>
 
   3. <a href="https://www.youtube.com/watch?v=14rqwp7ZqwQ&ab_channel=PercyESCOBARSOTO">Distribución de espesor de hielo en un Glaciar con GlabTop2 python</a>
+
+ ## **Nota**
+  Existen más herramientas algunas de las cuales ya son muy conocidas y otras que iré añadiendo😏. 
+
 
 ## 📚 **Referencias**
 
