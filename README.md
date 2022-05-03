@@ -1,6 +1,6 @@
 <h1 align="center"><strong>¿Que es Conda?</strong></h1>
 
-<table align="center">s
+<table align="center">
  <p align="center">
 <a href="https://twitter.com/Mario251997" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -76,7 +76,8 @@ conda remove scipy numpy
 ```
  ## **Herramientas geoespaciales**
   Existe gran variedad de herramientas en el ámbito geoespacial que solo pueden ser utilizadas con Conda como rgee y PCraster.  
-  -rgee: Es un paquete en R que permite utilizar las funciones de Google Earth Engine en R 
+  -rgee: Es un paquete en R que permite utilizar las funciones de Google Earth Engine en R. 
+
   -PCraster: Es una colección de software dirigida al desarrollo y despliegue de modelos ambientales espacio-temporales. 
 
 
@@ -88,11 +89,10 @@ conda remove scipy numpy
 
 ## 📚 **Referencias**
 
-- _David Montero, 2021, ee-pokepalettes,
-  <https://github.com/davemlz/ee-pokepalettes>_
+- _Cesar Aybar, 2021, rgee,<https://github.com/r-spatial/rgee/>_
 
-- _Ted Petrou
-  ,2019,<[Anaconda is bloated — Set up a lean, robust data science environment with Miniconda and Conda-Forge](https://medium.com/dunder-data/anaconda-is-bloated-set-up-a-lean-robust-data-science-environment-with-miniconda-and-conda-forge-b48e1ac11646)>_
+- _Oliver Schmitz, 2017, PCraster,<https://github.com/pcraster/pcraster/>_
 
-- _Sergio Ibarra Espinosa, 2017, cptcity,
-  <https://github.com/ibarraespinosa/cptcity>_
+
+
+
