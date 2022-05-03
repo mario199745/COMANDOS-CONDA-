@@ -1,7 +1,8 @@
 # COMANDOS-CONDA-
 COMANDOS CONDA 
 # Versión de CONDA 
-```conda --version
+```bash
+conda --version
 ```
 # Actualizar la versión de CONDA 
 conda update conda
