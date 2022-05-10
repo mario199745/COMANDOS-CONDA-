@@ -29,7 +29,7 @@
 
 
  ## **Información**
-  Quizás escuchaste hablar de Anaconda en relación con Python pero que permite exactamente tener instalado Anaconda, Conda o Miniconda en tu computadora 
+  Quizás escuchaste hablar de Anaconda en relación con Python, pero que permite exactamente tener instalado Anaconda, Conda o Miniconda en tu computadora, 
   pues primero una breve definición de lo que significa cada uno de ellos. 
 
   -<a href="https://www.anaconda.com/products/distribution">Anaconda</a>: Es una distribución de Python que funciona como un gestor de entorno, gestor de paquetes y que posee una colección de +720 paquetes de código abierto.
